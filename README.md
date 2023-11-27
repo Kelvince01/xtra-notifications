@@ -1,6 +1,19 @@
 # XtraLibrary
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0.
+A notification Library with Angular, published to NPM Registry
+
+To use :- `npm i xtra-notifications`
+
+## Local Build and Packaging
+Build :- ` npm run build-library`
+Pack :- ` npm run pack-lib`
+
+## Local Package Installation
+`npm i dist/notifications/xtra-notifications-0.0.1.tgz`
+
+## Publish to NPM Registry
+`npm publish dist/notifications/xtra-notifications-0.0.1.tgz`
 
 ## Development server
 
